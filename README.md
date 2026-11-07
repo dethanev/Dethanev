@@ -1,52 +1,46 @@
 <div align="center">
-  
-<img src="profile-card/profile-card.svg" alt="Dethanev Terminal Card" width="100%" />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/banner-dark.svg"><img src="assets/readme/banner-light.svg" alt="Dethanev" width="100%"></picture>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CE0A&width=650&lines=Code+doesn%E2%80%99t+just+change+systems+%E2%80%94+it+changes+lives.)](https://git.io/typing-svg)
+<a href="https://www.dethanev.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/btn-blog-dark.svg"><img src="assets/readme/btn-blog-light.svg" width="92" height="44" alt="Blog"></picture></a>&nbsp;&nbsp;<a href="https://algolab.dethanev.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/btn-algolab-dark.svg"><img src="assets/readme/btn-algolab-light.svg" width="129" height="44" alt="AlgoLab"></picture></a>&nbsp;&nbsp;<a href="https://quizlab.dethanev.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/btn-quizlab-dark.svg"><img src="assets/readme/btn-quizlab-light.svg" width="127" height="44" alt="QuizLab"></picture></a>
 
 </div>
 
 <br>
 
-### 💻 Tech Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/h-projects-dark.svg"><img src="assets/readme/h-projects-light.svg" alt="01 精選專案"></picture>
 
-#### 💻 Languages
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">
+<a href="https://algolab.dethanev.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-algolab-dark.svg"><img src="assets/readme/card-algolab-light.svg" alt="AlgoLab：演算法視覺化實驗室" width="48%"></picture></a>
+<a href="https://quizlab.dethanev.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-quizlab-dark.svg"><img src="assets/readme/card-quizlab-light.svg" alt="QuizLab：智慧考題學習實驗室" width="48%"></picture></a>
+</p>
 
-#### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=%2300DC82) ![Astro](https://img.shields.io/badge/astro-%23000000.svg?style=for-the-badge&logo=astro&logoColor=white) 
+<p align="center">
+<a href="https://github.com/dethanev/DriveWorth-App"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-driveworth-dark.svg"><img src="assets/readme/card-driveworth-light.svg" alt="DriveWorth 駕值觀：購車與養車成本評估工具" width="48%"></picture></a>
+<a href="https://github.com/dethanev/HawkGuard-App"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-hawkguard-dark.svg"><img src="assets/readme/card-hawkguard-light.svg" alt="HawkGuard：跨平台反詐騙 App" width="48%"></picture></a>
+</p>
 
-#### ⚙️ Backend & Server
-![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
-
-#### 📱 Mobile & AR
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white) 
-
-#### 🎮 Minecraft Ecosystem
-![Minecraft Server](https://img.shields.io/badge/Minecraft_Server-62B47A?style=for-the-badge&logo=minecraft&logoColor=white) ![Minecraft Plugins](https://img.shields.io/badge/Minecraft_Plugins-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
-
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### 🧠 Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-#### 📝 IDEs & Editors
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-
-#### 🤖 AI & Design
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-#### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Termius](https://img.shields.io/badge/Termius-181A20?style=for-the-badge&logo=termius&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Cloudflare Zero Trust](https://img.shields.io/badge/Cloudflare_Zero_Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) 
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-linkpet-dark.svg"><img src="assets/readme/card-linkpet-light.svg" alt="LinkPet：SwiftUI 陪伴型空間運算寵物" width="48%"></picture>
+<a href="https://www.dethanev.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-blog-dark.svg"><img src="assets/readme/card-blog-light.svg" alt="Dethanev Blog" width="48%"></picture></a>
+</p>
 
 <br>
 
-### 📈 Development Activity & Stats
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/h-stack-dark.svg"><img src="assets/readme/h-stack-light.svg" alt="02 常用技術"></picture>
 
-#### ⏱️ Coding Time
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/stack-dark.svg"><img src="assets/readme/stack-light.svg" alt="常用技術：Swift、Dart、Python、TypeScript、Java、C、Flutter、Nuxt、Astro、FastAPI、SwiftUI、ARKit、Docker、Proxmox、Cloudflare、Supabase、PostgreSQL、Ollama" width="100%"></picture>
+</p>
+
+<br>
+
+<details open>
+<summary><b>開發統計</b></summary>
+
+<br>
 
 <!--START_SECTION:waka-->
 
@@ -66,14 +60,22 @@ Other                      6 hrs 24 mins         ▓░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+<a href="https://git.io/streak-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Dethanev&background=1A1A22&border=EEE6D3&stroke=EEE6D3&ring=E76F9F&fire=E76F9F&currStreakNum=EEE6D3&sideNums=EEE6D3&currStreakLabel=EEE6D3&sideLabels=9A9AAB&dates=9A9AAB&border_radius=4"><img src="https://streak-stats.demolab.com?user=Dethanev&background=FFF7E6&border=0A0A0F&stroke=0A0A0F&ring=FF5C8A&fire=FF5C8A&currStreakNum=0A0A0F&sideNums=0A0A0F&currStreakLabel=0A0A0F&sideLabels=6B6B78&dates=6B6B78&border_radius=4" alt="GitHub Streak"></picture></a>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-dethanev-dark.svg"><img src="profile-3d-contrib/profile-dethanev-light.svg" alt="3D contribution graph" width="100%"></picture>
+</p>
+
+</details>
+
+<details>
+<summary><b>neofetch</b></summary>
+
 <br>
 
-<div align="center">
+<img src="profile-card/profile-card.svg" alt="dethanev@dev-machine" width="100%">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dethanev&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" height="350">
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</details>

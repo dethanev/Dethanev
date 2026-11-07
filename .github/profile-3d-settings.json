@@ -1,0 +1,30 @@
+[
+  {
+    "type": "rainbow",
+    "fileName": "profile-dethanev-light.svg",
+    "backgroundColor": "#fff7e6",
+    "foregroundColor": "#0a0a0f",
+    "strongColor": "#ff5c8a",
+    "weakColor": "#6b6b78",
+    "radarColor": "#ff5c8a",
+    "growingAnimation": true,
+    "saturation": "85%",
+    "contribLightness": ["88%", "74%", "68%", "62%", "56%"],
+    "duration": "10s",
+    "hueRatio": -7
+  },
+  {
+    "type": "rainbow",
+    "fileName": "profile-dethanev-dark.svg",
+    "backgroundColor": "#1a1a22",
+    "foregroundColor": "#eee6d3",
+    "strongColor": "#e76f9f",
+    "weakColor": "#9a9aab",
+    "radarColor": "#e76f9f",
+    "growingAnimation": true,
+    "saturation": "55%",
+    "contribLightness": ["30%", "40%", "47%", "54%", "62%"],
+    "duration": "10s",
+    "hueRatio": -7
+  }
+]
