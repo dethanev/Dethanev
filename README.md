@@ -45,16 +45,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2025 - To: 24 November 2026
+From: 16 August 2025 - To: 25 November 2026
 
-Total Time: 253 hrs 15 mins
+Total Time: 258 hrs 59 mins
 
-Python                     46 hrs 9 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
-Java                       43 hrs 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Dart                       32 hrs 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Astro                      18 hrs 8 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Swift                      13 hrs 3 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Other                      9 hrs 40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Python                     46 hrs 9 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
+Java                       43 hrs 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
+Dart                       33 hrs 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+Astro                      18 hrs 8 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Swift                      15 hrs 19 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Other                      9 hrs 41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
